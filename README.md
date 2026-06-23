@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/▲-PORTFOLIO-000000?style=for-the-badge)](https://github.com/vinaykumar-yagati-4)
+[![Portfolio](vinay-portfolio-vision.vercel.app)](https://github.com/vinaykumar-yagati-4)
 [![LinkedIn](https://img.shields.io/badge/in-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/VinayKumar)
 [![Gmail](https://img.shields.io/badge/M-GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yagativinay8@gmail.com)
 [![GitHub](https://img.shields.io/badge/⌥-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinaykumar-yagati-4)
