@@ -22,17 +22,23 @@
 
 ---
 
-## 🧑‍💻 About Me
+## > whoami
 
-```yaml
-name       : Vinay Kumar Yagati
-location   : Andhra Pradesh, India
-education  : B.Tech CSE — Sri Vasavi Engineering College (2025) | CGPA: 7.8
-portfolio  : https://vinay-portfolio-vision.vercel.app
-currently  : Building AI-powered web applications
-learning   : Generative AI & Advanced Prompt Engineering
-interests  : Full-Stack Dev · Machine Learning · Cloud Computing
+```javascript
+const vinay = {
+  role        : "Full Stack Developer & AI Enthusiast",
+  education   : "B.Tech CSE — Sri Vasavi Engineering College (2025)",
+  location    : "Andhra Pradesh, India",
+  cgpa        : "7.8",
+  portfolio   : "https://vinay-portfolio-vision.vercel.app",
+  currently   : "Building AI-powered web applications",
+  learning    : "Generative AI & Advanced Prompt Engineering",
+  dailyDriver : "Django + React + Python + AWS",
+  superpower  : "Turning ideas into working products fast"
+};
 ```
+
+*I don't just write code — I build solutions that actually work.*
 
 ---
 
@@ -77,16 +83,6 @@ interests  : Full-Stack Dev · Machine Learning · Cloud Computing
 ![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinaykumar-yagati-4&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=ffffff)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumar-yagati-4&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=ffffff)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Vinay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vinaykumar-yagati-4&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&area_color=00e5ff&hide_border=true)](https://github.com/vinaykumar-yagati-4)
 
 </div>
 
