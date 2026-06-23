@@ -82,11 +82,11 @@ interests  : Full-Stack Dev · Machine Learning · Cloud Computing
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/vinaykumar-yagati-4/vinaykumar-yagati-4/output/github-contribution-grid-snake-dark.svg)
+[![Vinay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vinaykumar-yagati-4&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&area_color=00e5ff&hide_border=true)](https://github.com/vinaykumar-yagati-4)
 
 </div>
 
