@@ -22,21 +22,6 @@
 
 ---
 
-## > whoami
-
-```javascript
-const vinay = {
-  role        : "Full Stack Developer & AI Enthusiast",
-  education   : "B.Tech CSE — Sri Vasavi Engineering College (2025)",
-  location    : "Andhra Pradesh, India",
-  cgpa        : "7.8",
-  portfolio   : "https://vinay-portfolio-vision.vercel.app",
-  currently   : "Building AI-powered web applications",
-  learning    : "Generative AI & Advanced Prompt Engineering",
-  dailyDriver : "Django + React + Python + AWS",
-  superpower  : "Turning ideas into working products fast"
-};
-```
 
 *I don't just write code — I build solutions that actually work.*
 
