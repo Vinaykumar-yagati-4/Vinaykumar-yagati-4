@@ -1,4 +1,3 @@
-
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vinay%20Kumar%20Yagati&fontSize=45&fontColor=00e5ff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Cloud%20Explorer&descSize=16&descAlignY=58&descColor=ffffff)
@@ -7,8 +6,8 @@
 
 <div align="center">
 
-[![Portfolio](vinay-portfolio-vision.vercel.app)](https://github.com/vinaykumar-yagati-4)
-[![LinkedIn](https://img.shields.io/badge/in-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/VinayKumar)
+[![Portfolio](https://img.shields.io/badge/▲-PORTFOLIO-000000?style=for-the-badge)](https://vinay-portfolio-vision.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/in-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinaykumar-yagati)
 [![Gmail](https://img.shields.io/badge/M-GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yagativinay8@gmail.com)
 [![GitHub](https://img.shields.io/badge/⌥-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinaykumar-yagati-4)
 
@@ -29,6 +28,7 @@
 name       : Vinay Kumar Yagati
 location   : Andhra Pradesh, India
 education  : B.Tech CSE — Sri Vasavi Engineering College (2025) | CGPA: 7.8
+portfolio  : https://vinay-portfolio-vision.vercel.app
 currently  : Building AI-powered web applications
 learning   : Generative AI & Advanced Prompt Engineering
 interests  : Full-Stack Dev · Machine Learning · Cloud Computing
@@ -70,25 +70,6 @@ interests  : Full-Stack Dev · Machine Learning · Cloud Computing
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 AI-Driven Inventory Management *(Mar 2025)*
-> Web-based stock tracking & demand forecasting for small businesses
-
-- 🔧 **Stack:** Django · MySQL · Bootstrap
-- 🧠 **ML model + rule-based logic** for demand forecasts & reorder suggestions
-- 📊 Responsive dashboard for product management and analytics
-
----
-
-### 🏥 Healthcare Chat Bot *(Dec 2023)*
-> Conversational AI for instant, reliable health information
-
-- 💬 Simulates human conversation for natural health Q&A
-- ⚡ Bridges the gap between users and fast, accurate medical information
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -96,6 +77,16 @@ interests  : Full-Stack Dev · Machine Learning · Cloud Computing
 ![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinaykumar-yagati-4&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=ffffff)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumar-yagati-4&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=ffffff)
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/vinaykumar-yagati-4/vinaykumar-yagati-4/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
