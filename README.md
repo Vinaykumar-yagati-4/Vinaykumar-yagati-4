@@ -1,7 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vinay%20Kumar%20Yagati&fontSize=45&fontColor=00e5ff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Cloud%20Explorer&descSize=16&descAlignY=58&descColor=ffffff)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vinay%20Kumar%20Yagati&fontSize=45&fontColor=00e5ff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20
 </div>
 
 <div align="center">
@@ -32,9 +31,6 @@
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Web & Frameworks**
