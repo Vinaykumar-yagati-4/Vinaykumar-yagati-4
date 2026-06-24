@@ -60,8 +60,7 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Vinaykumar-yagati/Vinaykumar-yagati/output/github-contribution-grid-snake-dark.svg)
-
+![Snake animation](https://raw.githubusercontent.com/Vinaykumar-yagati-4/Vinaykumar-yagati-4/output/github-contribution-grid-snake.svg)
 </div>
 
 ---
