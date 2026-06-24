@@ -56,13 +56,5 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Vinaykumar-yagati-4/Vinaykumar-yagati-4/output/github-contribution-grid-snake.svg)
-</div>
-
----
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer)
